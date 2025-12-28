@@ -740,7 +740,7 @@ def plot_telework_analysis(pivot_jours):
     print("\n" + "="*80)
     print("ANALYSE TÉLÉTRAVAIL TERMINÉE")
     print("="*80)
-    print("\n💡 Interprétation :")
+    print("\n Interprétation :")
     print("  • Ratio > 1 : Plus de trafic le lun+ven que mar+mer+jeu")
     print("  • Ratio < 1 : Moins de trafic le lun+ven (effet télétravail ?)")
     print("  • Ratio qui baisse = augmentation du télétravail")
